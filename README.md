@@ -3,6 +3,7 @@
 
 # 知识点
 - 数据库乐观锁
+- HandlerMethodArgumentResolver注入自定义参数
 - ThreadLocal存储user
 - 分布式session实现
 - rabbitmq异步下单
